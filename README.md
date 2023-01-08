@@ -2,7 +2,7 @@
 
 
 ## Main features
-  1. Chat app using firebase
+  1. Chat app using firebase firestore Database
   
 ## Check video for detail
 
